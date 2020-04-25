@@ -23,11 +23,11 @@ CircularQueue(){
 int lastOP=0;
 bool isEmpty(){
 	return (lastOP==0)&&front==rear;
-}//enq후 같으면 공백
+}//deq후 같으면 공백
 
 bool isFull(){
 	return (lastOP==1)&&((front)==(rear)%MAX_QUEUE_SIZE);
-}//deq후 같으면 포화
+}//enq후 같으면 포화
 
 void enqueue(int val){
 	if(isFull())
