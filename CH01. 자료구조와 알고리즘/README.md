@@ -15,7 +15,7 @@
 - 추상화 (abstraction)
 - 정보은닉기법 (information hiding)
 - 자료형 (data type) 
---- 데이터의 집합과 연산의 집합.
+ - 데이터의 집합과 연산의 집합.
 --- ex. int
 - 추상자료형
 --- 객체지향
