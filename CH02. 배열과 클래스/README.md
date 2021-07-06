@@ -7,5 +7,7 @@
 - int arr[row][col]; / col size 생략 불가
 - <인덱스, 요소> 쌍의 집합. index는 0부터 시작
 - 인덱스를 사용하여 요소에 직접 접근 가능
+
+
 '''*ptr = &data / arr[i] = *(arr+i)' '''
 
