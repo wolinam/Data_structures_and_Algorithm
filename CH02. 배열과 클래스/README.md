@@ -9,6 +9,8 @@
 - 인덱스를 사용하여 요소에 직접 접근 가능
 
 
-```*ptr = &data
-arr[i] = *(arr+i)```
+```
+*ptr = &data
+arr[i] = *(arr+i)
+```
 
