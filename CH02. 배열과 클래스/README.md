@@ -15,4 +15,3 @@
 *ptr = &data
 arr[i] = *(arr+i)
 ```
-
