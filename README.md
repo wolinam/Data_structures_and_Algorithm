@@ -15,7 +15,7 @@
 | 06 | [List](https://github.com/wolinam/Data_structures_and_Algorithm/blob/master/CH06.%20List/README.md) |
 | 07 | [Recursion 순환](https://github.com/wolinam/Data_structures_and_Algorithm/blob/master/CH07.%20Recursion/README.md) |
 | 08 | [Tree](https://github.com/wolinam/Data_structures_and_Algorithm/blob/master/CH08.%20Tree/README.md) |
-| 09 | [BST 이진탐색트리]() |
+| 09 | [BST 이진탐색트리](https://github.com/wolinam/Data_structures_and_Algorithm/blob/master/CH09.%20BST%20%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%ED%8A%B8%EB%A6%AC/README.md) |
 | 10 | [Priority Queue 우선순위큐]() |
 | 11 | [Graph 그래프]() |
 | 12 | [가중치 그래프]() |
